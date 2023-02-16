@@ -12,3 +12,5 @@ UNZIP THE "Human Recognition" FOLDER AND PLACE THE CV2 FOLDER INTO
 Human Recognition > venv > Lib > site-packages
 
 JUST TO BE SAFE, ALSO THE INSTALL THE PACKAGE "cv2" AND "numpy" TO THE IDE BEING USED.
+
+The program can be seen running in the demonstratino video.
