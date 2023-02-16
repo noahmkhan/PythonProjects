@@ -1,4 +1,4 @@
-# PythonProjects
+# Firework Simulator
 USER INPUT
 
 Pyro is the main file to be run in an IDE. It was originally written using the PyCharm IDE. The program can receive user input in real time. 
